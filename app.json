@@ -3,14 +3,14 @@
     "description": "Kind of a filter bot where you don't have to add filters manually.",
     "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
     "keywords": [
-        "AUTO",
-        "FILTER",
-        "TELEGRAM BOT",
+        "Auto",
+        "Filter",
+        "Telegram bot",
         "ek_2je_ke_vastee"
     ],
     "website": "https://Innocentarmy1.me",
     "repository": "https://github.com/Innocentarmy1/AUTO_FILTER_BOT",
-    "success_url": "https://telegram.dog/thunder_buddy_group",
+    "success_url": "https://telegram.dog/ek_2je_ke_vastee",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
